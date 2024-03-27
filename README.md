@@ -24,5 +24,5 @@ A descoberta de que apenas dois dos dez produtos mais vendidos são celulares de
 <br><br>
 <a href="https://app.powerbi.com/view?r=eyJrIjoiZmNiNjllM2YtN2E4Zi00YWZlLTljMjAtNzdkNzc1NDg0NWQ3IiwidCI6IjVhMTM3NTBmLWFjZWUtNDllYS1iYTFmLWQ0YjQzZjUyZGI0MiJ9" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para a empresa AdventureWorks.
 <br>
-<a href="" target="_blank">Clique aqui</a> e acesse o arquivo .pbix no Github.
+<a href="https://github.com/marcospaulo-marcos/ProjetoVarejo/blob/main/Dashboard_Varejo.pbix" target="_blank">Clique aqui</a> e acesse o arquivo .pbix no Github.
 <br><br>
